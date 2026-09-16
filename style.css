@@ -46,7 +46,6 @@ a {
 
 header {
     background-color: #2765eb;
-    border-bottom: 5px solid #ea2121;
     padding: 40px 20px;
     text-align: center;
 }
@@ -93,8 +92,7 @@ section {
 }
 
 img {
-    border: 6px solid #2765eb;
-    border-bottom-color: #2765eb;
+    border: 6px solid #c8174c;
     display: block;
     margin-top: 20px;
 }
